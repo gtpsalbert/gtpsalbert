@@ -11,8 +11,6 @@ h = {
 data = {
   "X" : "xXxxX",
   "Y" : "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-  IP= str(input('[+] Target: '((
-  port= int(input('[+] port: '((
   }
 data["Z"] = ("a" * 10000 + "b" * 10000 + "A" * 100)
 for i in range(1,sys.argv[2]):
