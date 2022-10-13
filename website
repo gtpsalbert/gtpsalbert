@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+ 
+
+<title>percobaan.com </title>
+
+<link rel="stylesheet" href="style.css"/>
+
+</head>
+
+<body>
+
+<div class="top">
+
+<div class='bghitam'></div>
+
+<div class="menu">
+
+<a href=""><img src="img/logo.png"></a>
+
+<ul>
+
+<li><a href="">BERANDA</a></li>
+
+<li><a href="">VISI & MISI</a></li>
+
+<li><a href="">PROGRAM KEAHLIAN</a></li>
+
+<li><a href="">GURU & KARYAWAN</a></li>
+
+<li><a href="">GALLERY</a></li>
+
+<li><a href="">FASILITAS</a></li>
+
+</ul>
+
+</div>
+
+<div class="text">
+
+<h1>Official Website <br>by albert</h1>
+
+
+
+</div>
+
+</div>
+
+
+<div id="jurusan">
+
+<h2></h2>
+
+<p>Berikut ini adalah uraian singkat Jurusan di </p>
+
+<div class='grid'>
+
+<div class='keahlian'>
+
+<a href=""><img src="img/IPA.jpg"></a>
+
+<h3>Jurusan IPA</h3>
+
+<p></p>
+
+</div>
+
+<div class='keahlian'>
+
+<a href=""><img src="img/IPS.jpg"></a>
+
+<h3>Jurusan IPS</h3>
+
+<p></p>
+
+</div>
+
+<div class='keahlian'>
+
+</div>
+
+
+</div>
+
+</div>
+
+
+</div>
+
+<div class="depan">
+
+<img src="img/depan.jpg">
+
+</div>
+
+<div class="organisasi">
+
+<h1>STRUKTUR ORGANISASI</h1>
+
+<p>Struktur organisasi  di [Di isi dengan nama sekolah] </h2></p>
+
+<div class="grid2">
+
+
+
+<div class="struktur">
+
+<img src="img/logo_sma.png">
+
+<h2>Nama Kepala Sekolah</h2>
+
+<p><b>KEPALA SEKOLAH</b></p>
+
+<p>menjabat kepala sekolah</p>
+
+<h2>Nama Wakil kepala Sekolah</h2>
+
+<p><b>Wakil kepala Sekolah</b></p>
+
+<p>menjabat wakil kepala sekolah</p>
+
+</div>
+
+<div class="struktur">
+
+<img src="img/logo_smk.png">
+
+<h2>Nama Waka</h2>
+
+<p><b>WAKA KURIKULUM</b></p>
+
+<p>Menjabat wakil kepala sekolah kurikulum</p>
+
+</div>
+
+<div class="struktur">
+
+<img src="img/logo_smk.png">
+
+<h2>Nama Waka</h2>
+
+<p><b>WAKA KESISWAAN</b></p>
+
+<p>menjabat wakil kepala sekolah kesiswaan</p>
+
+</div>
+
+<div class="struktur">
+
+<img src="img/logo_smk.png">
+
+<h2>Nama Waka</h2>
+
+<p><b>WAKA HUMAS</b></p>
+
+<p>menjabat wakil kepala sekolah humas</p>
+
+</div>
+
+</div>
+
+<div class="struktur">
+
+<img src="img/logo_sma.png">
+
+<h2>Nama Waka</h2>
+
+<p><b>WAKA SARANA PRASARANA</b></p>
+
+<p>menjabat wakil kepala sekolah sarana prasarana</p>
+
+</div>
+<div class="struktur">
+
+<img src="img/logo_sma.png">
+
+<h2>Nama Waka</h2>
+
+<p><b>WAKA KESISWAAN</b></p>
+
+<p>menjabat wakil kepala sekolah kesiswaan</p>
+
+</div>
+</div>
+
+</div>
+
+<div class="struktur">
+
+<img src="img/logo_smk.png">
+
+<h2>Nama Waka</h2>
+
+<p><b>WAKA SARANA PRASARANA</b></p>
+
+<p>menjabat wakil kepala sekolah sarana prasarana</p>
+
+</div>
+
+
+
+</div>
+
+<div class="official">
+
+<h1>Official SMA Negeri</h1>
+
+<a href='#'>official SMA Negeri</a>
+
+</div>
+
+<div class="berita">
+
+<h1>BERITA TERBARU</h1>
+
+<p>official SMA Negeri</p>
+
+<div class="grid4">
+
+<div class="grid3">
+
+<img src="img/berita1.jpg">
+
+<p>BERITA TERBARU</p>
+
+<h2>Siap-siap! SPP SMA dan SMK di Jatim Bakal Naik, Segini Biaya yang Mungkin Harus Dibayar Ortu [Contoh postingan] </h2>
+
+<p>SURYAMALANG.COM, SURABAYA – Para wali murid jenjang SMA dan SMK harus siap mengeluarkan anggaran lebih besar untuk biaya pendidikan anak-anaknya. Sebab, Dinas Pendidikan (Dindik) Jawa Timur (Jatim) berencana menaikkan besaran SPP mulai tahun ajaran baru pada Juli 2018. Kepala Dindik Jatim, Saiful Rachman</p>
+
+<a href="">READ MORE...</a>
+
+</div>
+
+<div class="grid3">
+
+<img src="img/berita2.jpg">
+
+<p>BERITA TERBARU</p>
+
+<h2>SPP SMK Negeri dan Swasta di Jawa Timur (Contoh Postingan)</h2>
+
+<p>Surabaya – Kebijakan SPP gratis di Jawa Timur tidak hanya untuk SMA dan SMK Negeri. Kebijakan yang akan dimulai bulan Juli ini juga berlaku untuk sekolah swasta. Namun, ada regulasi yang berbeda. Kepala Dinas Pendidikan Jatim Saiful Rachman mengatakan kebijakan</p>
+
+<a href="">READ MORE...</a>
+
+</div>
+
+<div class="grid3">
+
+<img src="img/berita3.jpg">
+
+<p>BERITA TERBARU</p>
+
+<h2>Pengumuman SBMPTN Bagi siswa (Contoh Postingan)</h2>
+
+<p>Menjelang tahun ajaran baru, berbagai kesibukan mulai tampak terjadi. Kesibukan karena mempersiapkan berbagai kebutuhan untuk memasuki sekolah baru, ujian naik kelas, ujian nasional bahkan persiapan tes masuk perguruan tinggi idaman. Hari-hari ini pihak sekolah terutama</p>
+
+<a href="">READ MORE...</a>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="kontak">
+
+<div class="des">
+
+<h1>Pusat Informasi</h1>
+
+<h2>KANTOR SMA Negeri </h2>
+
+<p>Jl. Mana Saja, Indonesia</p>
+
+<h2>Kontak kami</h2>
+
+<p>Jumat , 07.00 WIB - 16.00 WIB SMKN 1</p>
+
+</div>
+</dov>
+
+</div>
+
+<div class="struktur">
+
+<img src="img/logo_smk.png">
+
+<h2>Nama Waka</h2>
+
+<p><b>WAKA SARANA PRASARANA</b></p>
+
+<p>menjabat wakil kepala sekolah sarana prasarana</p>
+
+</div>
+
+
+
+</div>
+
+<div class="subscribe">
+
+<h1>Official SMA Negeri </h1>
+
+<a href='#'>official SMA Negeri</a>
+
+</div>
+
+<div class="berita">
+
+<h1>BERITA TERBARU</h1>
+
+<p>Menyajikan informasi di SMA</p>
+
+<div class="grid4">
+
+<div class="grid3">
+
+<img src="img/berita1.jpg">
+
+<p>BERITA TERBARU</p>
+
+<h2>Siap-siap! SPP SMA dan SMK di Jatim Bakal Naik, Segini Biaya yang Mungkin Harus Dibayar Ortu</h2>
+
+<p>SURYAMALANG.COM, SURABAYA – Para wali murid jenjang SMA dan SMK harus siap mengeluarkan anggaran lebih besar untuk biaya pendidikan anak-anaknya. Sebab, Dinas Pendidikan (Dindik) Jawa Timur (Jatim) berencana menaikkan besaran SPP mulai tahun ajaran baru pada Juli 2018. Kepala Dindik Jatim, Saiful Rachman</p>
+
+<a href="">READ MORE...</a>
+
+</div>
+
+<div class="grid3">
+
+<img src="img/berita2.jpg">
+
+<p>BERITA TERBARU</p>
+
+<h2>SPP SMK Negeri dan Swasta di Jawa Timur (Contoh Postingan)</h2>
+
+<p>Surabaya – Kebijakan SPP gratis di Jawa Timur tidak hanya untuk SMA dan SMK Negeri. Kebijakan yang akan dimulai bulan Juli ini juga berlaku untuk sekolah swasta. Namun, ada regulasi yang berbeda. Kepala Dinas Pendidikan Jatim Saiful Rachman mengatakan kebijakan</p>
+
+<a href="">READ MORE...</a>
+
+</div>
+
+<div class="grid3">
+
+<img src="img/berita3.jpg">
+
+<p>BERITA TERBARU</p>
+
+<h2>Pengumuman SBMPTN Bagi siswa (Contoh Postingan)</h2>
+
+<p>Menjelang tahun ajaran baru, berbagai kesibukan mulai tampak terjadi. Kesibukan karena mempersiapkan berbagai kebutuhan untuk memasuki sekolah baru, ujian naik kelas, ujian nasional bahkan persiapan tes masuk perguruan tinggi idaman. Hari-hari ini pihak sekolah terutama</p>
+
+<a href="">READ MORE...</a>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="kontak">
+
+<div class="des">
+
+<h1>Pusat Informasi</h1>
+
+<h2>KANTOR SMA Negeri </h2>
+
+<p>Jl. Mana Saja, Indonesia</p>
+
+<h2>Kontak kami</h2>
+
+<p>Jumat , 06.00 WIB - 16.00 WIB SMA</p>
+
+</div>
+
+</div>
+
+<div class="footer"><p>© Copyright 2022 - Dibuat oleh <a href="https://youtube.com/channel/UCtLoAQ48u4CQE-l5S5V2sDQ">albert hutapea</a> Instagram: <a href="https://instagram.com/albert_hutapea_">@albert hutapea</a></p></div>
+
+
+
+</body>
+
+</html>
